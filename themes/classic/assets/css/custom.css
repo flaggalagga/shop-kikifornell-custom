@@ -1,0 +1,189 @@
+/*
+*   Simplified Custom CSS KIKI FORNELL 0.5 04112024
+*   Focus on color-related properties
+*/
+
+
+
+
+
+.featured-products .products-section-title,.featured-products .all-product-link{display:none!important;}
+
+/* Apply #009b77 color to all links */
+a, a:visited {
+  color: #009b77 !important;
+}
+
+a:hover, a:focus {
+  color: #007f63 !important; /* Optional: a slightly darker shade for hover/focus */
+}
+
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary.disabled.focus,
+.btn-primary.disabled:focus,
+.btn-primary:disabled.focus,
+.btn-primary:disabled:focus,
+.btn-primary.disabled:hover,
+.btn-primary:disabled:hover {
+  background-color: #009b77 !important;
+}
+
+.btn-outline-primary {
+  color: #009b77 !important;
+  border-color: #009b77 !important;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary.focus,
+.btn-outline-primary:focus,
+.btn-outline-primary.active,
+.btn-outline-primary:active,
+.open > .btn-outline-primary.dropdown-toggle {
+  background-color: #009b77 !important;
+  border-color: #009b77 !important;
+}
+
+.btn-link {
+  color: #009b77 !important;
+}
+
+.dropdown-item.active,
+.dropdown-item.active:focus,
+.dropdown-item.active:hover,
+.nav-pills .nav-link.active,
+.nav-pills .nav-link.active:focus,
+.nav-pills .nav-link.active:hover {
+  background-color: #009b77 !important;
+}
+
+.card-primary {
+  background-color: #009b77 !important;
+  border-color: #009b77 !important;
+}
+
+.card-outline-primary {
+  border-color: #009b77 !important;
+}
+
+.page-item.active .page-link,
+.page-item.active .page-link:focus,
+.page-item.active .page-link:hover {
+  background-color: #009b77 !important;
+  border-color: #009b77 !important;
+}
+
+.page-link {
+  color: #009b77 !important;
+}
+
+.tag-primary,
+.bg-primary {
+  background-color: #009b77 !important;
+}
+
+.text-primary {
+  color: #009b77 !important;
+}
+
+#header .top-menu a[data-depth="0"]:hover,
+a:hover,
+.btn-unstyle:focus .expand-more,
+.search-widget form input[type="text"]:focus + button .search {
+  color: #009b77 !important;
+}
+
+.form-control:focus,
+.input-group.focus {
+  outline: 0.1875rem solid #009b77 !important;
+}
+
+.bootstrap-touchspin .group-span-filestyle .btn-touchspin,
+.group-span-filestyle .bootstrap-touchspin .btn-touchspin,
+.group-span-filestyle .btn-default {
+  background: #009b77 !important;
+}
+
+.custom-radio input[type="radio"]:checked + span {
+  background-color: #009b77 !important;
+}
+
+.search-widget form input[type="text"]:focus {
+  outline: 3px #009b77 solid !important;
+}
+
+body#checkout section.checkout-step .address-item.selected {
+  border: #009b77 3px solid !important;
+}
+
+.brands-sort .select-list:hover,
+.products-sort-order .select-list:hover,
+.suppliers-sort .select-list:hover,
+.facet-dropdown .select-list:hover {
+  background: #009b77 !important;
+}
+
+.facet-dropdown.open > .select-title {
+  border: 3px solid #009b77 !important;
+}
+
+.pagination .current a {
+  color: #009b77 !important;
+}
+
+#subcategories ul li:hover .subcategory-image a {
+  border: 5px solid #009b77 !important;
+}
+
+.product-price {
+  color: #009b77 !important;
+}
+
+.tabs .nav-tabs .nav-link.active,
+.tabs .nav-tabs .nav-link:hover {
+  border-bottom: #009b77 3px solid !important;
+}
+
+#product-modal .modal-content .modal-body .product-images img:hover,
+.product-images > li.thumb-container .thumb.selected,
+.product-images > li.thumb-container .thumb:hover {
+  border: #009b77 3px solid !important;
+}
+
+.product-flags li.product-flag {
+  background: #009b77 !important;
+}
+
+.product-customization .product-message:focus {
+  outline: 0.1875rem solid #009b77 !important;
+}
+
+.block-promo .promo-input + button {
+  border: 2px solid #009b77 !important;
+}
+
+.block-promo .promo-code-button.cancel-promo {
+  color: #009b77 !important;
+}
+/*
+.block-social ul li:hover {
+  background-color: #009b77 !important;
+}*/
+
+.block_newsletter form input[type="text"]:focus {
+  outline: 3px #009b77 solid !important;
+}
+
+.block_newsletter form input[type="email"]:focus {
+  border: 3px #009b77 solid !important;
+}
+
+#header .header-nav .cart-preview.active {
+  background: #009b77 !important;
+}
+
+#header .header-nav .blockcart a:hover {
+  color: #009b77 !important;
+}
+
